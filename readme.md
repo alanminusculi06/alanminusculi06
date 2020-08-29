@@ -1,7 +1,7 @@
 # Olá, sou Alan Minusculi
 
-Bacharel em Sistemas de Informação pela Universidade do Contestado
-Programador na DigiSat Tecnologia desde 2013
+Bacharel em Sistemas de Informação pela [Universidade do Contestado](https://www.unc.br/)  
+Programador na [DigiSat Tecnologia](https://www.digisat.com.br/) desde 2013
 
 ### 🛠 Linguagens e Ferramentas
 
